@@ -13,6 +13,8 @@ var chalk = require("chalk");
 var command = process.argv[2];
 var parameter = process.argv[3];
 
+
+
 function parameters () {
 
     switch (command) {
@@ -170,8 +172,8 @@ function randomTxt() {
 
 function eventLog(query) {
     console.log(query);
-    fs.appendFile("eventlog.txt", query + "\n", function(err) {
-        if (err) return eventLog(chalk.bgRed("Logging error..."));
+    fs.appendFile("log.txt", query + "\n", function(err) {
+        if (err) return eventLog(chalk.bgRed("Error logging event.."));
     })
 }
 
