@@ -5,7 +5,8 @@ var request = require("request")
 var figlet = require("figlet")
 var keys = require("./keys.js");
 var Spotify = require("node-spotify-api")
-var spotify = new spotify(keys.spotify);
+var spotify = new Spotify(keys.spotify);
+var chalk = require("chalk");
 
 var command = process.argv[2];
 var parameter = process.argv[3];
@@ -17,7 +18,7 @@ function parameters () {
             bandsInTown(parameter);
             break;
         case 'spotify-this-song':
-            spotifySong(parameter);
+            spotifySearch(parameter);
             break;
         case 'movie-this':
             omdbInfo(parameter);
@@ -50,12 +51,13 @@ function bandsInTown(parameter) {
     else {
         artist=parameter;
     }
-}
 
 var queryUrl = "https://rest.bandsintown.com/artists/" + artist + "/events?app_id=codingbootcamp";
 
 request(queryUrl, function(error, response, body){
-    if(!error && response.statusCode === 200){
+    if(JSON.parse(body) == "") {
+        console.log(chalk.red.bgWhite.bold("No concerts for this artist was found/available."))
+    } else if(!error && response.statusCode === 200){
         var js = JSON.parse(body);
         for(i = 0; i<js.length; i++) {
             var date = js[i].datetime;
@@ -76,16 +78,18 @@ request(queryUrl, function(error, response, body){
         }
     }
 })
+}
 
 function spotifySearch(parameter) {
     var song;
     if(parameter === undefined) {
-        console.log(chalk.bgRed.yellow.bold("Can't find song."));
+        console.log(chalk.bgRed.yellow.bold("Can't find song, we'll provide one for you!"));
+        song = "Ace of Base The Sign"
     } else {
         song = parameter;
     }
 
-    figlet("Spotify", function(err,data) {
+    figlet(("SPOTIFY"), function(err,data) {
         if (err) {
             console.log(chalk.bgRed.yellow.bold("ERROR"))
             return;
@@ -110,3 +114,12 @@ function spotifySearch(parameter) {
         }
     })
 }
+
+function display(query) {
+    console.log(query);
+    fs.appendFile("eventlog.txt", query + "\n", function(err) {
+        if (err) return display(chalk.bgRed("Logging error..."));
+    })
+}
+
+parameters();
