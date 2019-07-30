@@ -9,3 +9,70 @@ var spotify = new spotify(keys.spotify);
 
 var command = process.argv[2];
 var parameter = process.argv[3];
+
+function parameters () {
+
+    switch (command) {
+        case 'concert-this':
+            bandsInTown(parameter);
+            break;
+        case 'spotify-this-song':
+            spotifySong(parameter);
+            break;
+        case 'movie-this':
+            omdbInfo(parameter);
+            break;
+        case 'do-what-it-says':
+            randomTxt();
+            break;
+
+            default:
+                display('ERROR');
+                break;
+    }
+}
+
+function bandsInTown(parameter) {
+    if('concert-this') {
+        var artist="";
+        for(var i = 3; i < process.argv.length; i++){
+            artist+=process.argv[i];
+        }
+
+        figlet("BandsInTown", function(err, data){
+            if (err) {
+                console.log(chalk.yellow.bold.bgRed('ERROR'));
+                return;
+            }
+            console.log(chalk.cyan(data))
+        })
+    }
+    else {
+        artist=parameter;
+    }
+}
+
+var queryUrl = "https://rest.bandsintown.com/artists/" + artist + "/events?app_id=codingbootcamp";
+
+request(queryUrl, function(error, response, body){
+    if(!error && response.statusCode === 200){
+        var js = JSON.parse(body);
+        for(i = 0; i<js.length; i++) {
+            var date = js[i].datetime;
+            var month = date.substring(5,7); //may need to convert using moment for cleaner format
+            var year = date.substring(0,4);
+            var day = date.substring(8,10);
+            var fullDate = month + "/" + day + "/" + year;
+
+            display(chalk.bgCyan("\n--------------------------BandsInTown--------------------------\n"))
+            display(chalk.cyan("Name: " + js[i].venue.name));
+            display(chalk.cyan("City: " + js[i].venue.city));
+            if (js[i].venue.region !== "") {
+                display(chalk.cyan("Country: " + js[i].venue.region));
+            }
+            display(chalk.cyan("Country: " + js[i].venue.country));
+            display(chalk.cyan("Date: " + fullDate));
+            display(chalk.bgCyan("\n--------------------------BandsInTown--------------------------\n"))
+        }
+    }
+})
