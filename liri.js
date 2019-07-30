@@ -34,7 +34,7 @@ function parameters () {
 
 function bandsInTown(parameter) {
     if('concert-this') {
-        var artist="";
+        var artist = "";
         for(var i = 3; i < process.argv.length; i++){
             artist+=process.argv[i];
         }
@@ -76,3 +76,37 @@ request(queryUrl, function(error, response, body){
         }
     }
 })
+
+function spotifySearch(parameter) {
+    var song;
+    if(parameter === undefined) {
+        console.log(chalk.bgRed.yellow.bold("Can't find song."));
+    } else {
+        song = parameter;
+    }
+
+    figlet("Spotify", function(err,data) {
+        if (err) {
+            console.log(chalk.bgRed.yellow.bold("ERROR"))
+            return;
+        }
+        console.log(chalk.green(data));
+    })
+
+    spotify.search({
+        type: "track",
+        query: song
+    }, function(err,data) {
+        if (err) {
+            display(chalk.bgRed.yellow.bold("ERROR"))
+            return;
+        } else {
+            display(chalk.bgGreen("\n--------------------------Spotify--------------------------\n"))
+            display(chalk.green("Artist: " + data.tracks.items[0].artists[0].name))
+            display(chalk.green("Song: " + data.tracks.items[0].name))
+            display(chalk.green("Preview: " + data.tracks.items[3].preview_url));
+            display(chalk.green("Album: " + data.tracks.items[0].album.name))
+            display(chalk.bgGreen("\n--------------------------Spotify--------------------------\n"))
+        }
+    })
+}
