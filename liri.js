@@ -68,15 +68,15 @@ request(queryUrl, function(error, response, body){
             var day = date.substring(8,10);
             var fullDate = month + "/" + day + "/" + year;
 
-            display(chalk.bgCyan.bold("\n--------------------------BandsInTown--------------------------\n"))
-            display(chalk.bgCyan.underline("Name:") + " " + chalk.cyan(js[i].venue.name));
-            display(chalk.bgCyan.underline("City:") + " " + chalk.cyan(js[i].venue.city));
+            eventLog(chalk.bgCyan.bold("\n--------------------------BandsInTown--------------------------\n"))
+            eventLog(chalk.bgCyan.underline("Name:") + " " + chalk.cyan(js[i].venue.name));
+            eventLog(chalk.bgCyan.underline("City:") + " " + chalk.cyan(js[i].venue.city));
             if (js[i].venue.region !== "") {
-                display(chalk.bgCyan.underline("Country:") + " " + chalk.cyan(js[i].venue.region));
+                eventLog(chalk.bgCyan.underline("Country:") + " " + chalk.cyan(js[i].venue.region));
             }
-            display(chalk.bgCyan.underline("Country:") + " " + chalk.cyan(js[i].venue.country));
-            display(chalk.bgCyan.underline("Date:") + " " + chalk.cyan(fullDate));
-            display(chalk.bgCyan.bold("\n--------------------------BandsInTown--------------------------\n"))
+            eventLog(chalk.bgCyan.underline("Country:") + " " + chalk.cyan(js[i].venue.country));
+            eventLog(chalk.bgCyan.underline("Date:") + " " + chalk.cyan(fullDate));
+            eventLog(chalk.bgCyan.bold("\n--------------------------BandsInTown--------------------------\n"))
         }
     }
 })
@@ -104,15 +104,15 @@ function spotifySearch(parameter) {
         query: song
     }, function(err,data) {
         if (err) {
-            display(chalk.bgRed.yellow.bold("ERROR"))
+            eventLog(chalk.bgRed.yellow.bold("ERROR"))
             return;
         } else {
-            display(chalk.bgGreen.bold("\n--------------------------Spotify--------------------------\n"))
-            display(chalk.bgGreen.underline("Artist:") + " " + chalk.green(data.tracks.items[0].artists[0].name))
-            display(chalk.bgGreen.underline("Song:") + " " + chalk.green(data.tracks.items[0].name))
-            display(chalk.bgGreen.underline("Preview:") + " " + chalk.green(data.tracks.items[3].preview_url))
-            display(chalk.bgGreen.underline("Album:") + " " + chalk.green(data.tracks.items[0].album.name))
-            display(chalk.bgGreen.bold("\n--------------------------Spotify--------------------------\n"))
+            eventLog(chalk.bgGreen.bold("\n--------------------------Spotify--------------------------\n"))
+            eventLog(chalk.bgGreen.underline("Artist:") + " " + chalk.green(data.tracks.items[0].artists[0].name))
+            eventLog(chalk.bgGreen.underline("Song:") + " " + chalk.green(data.tracks.items[0].name))
+            eventLog(chalk.bgGreen.underline("Preview:") + " " + chalk.green(data.tracks.items[3].preview_url))
+            eventLog(chalk.bgGreen.underline("Album:") + " " + chalk.green(data.tracks.items[0].album.name))
+            eventLog(chalk.bgGreen.bold("\n--------------------------Spotify--------------------------\n"))
         }
     })
 }
@@ -138,16 +138,16 @@ function omdbInfo(parameter) {
     request(queryUrl, function(err, response, body) {
         var js = JSON.parse(body);
         if(!err && response.statusCode === 200) {
-            display(chalk.bgMagenta.bold("\n--------------------------OMDB--------------------------\n"))
-            display(chalk.bgMagenta("Title:") + " " + chalk.magenta(js.Title))
-            display(chalk.bgMagenta("Release Year:") + " " + chalk.magenta(js.Year))
-            display(chalk.bgMagenta("IMDB Rating:") + " " + chalk.magenta(js.imdbRating))
-            display(chalk.bgMagenta("Rotten Tomatoes Rating:") + " " + chalk.magenta(js.Ratings[1].Value))
-            display(chalk.bgMagenta("Country:") + " " + chalk.magenta(js.Country))
-            display(chalk.bgMagenta("Language:") + " " + chalk.magenta(js.Language))
-            display(chalk.bgMagenta("Plot:") + " " + chalk.magenta(js.Plot))
-            display(chalk.bgMagenta("Actors:") + " " + chalk.magenta(js.Actors))
-            display(chalk.bgMagenta.bold("\n--------------------------OMDB--------------------------\n"))
+            eventLog(chalk.bgMagenta.bold("\n--------------------------OMDB--------------------------\n"))
+            eventLog(chalk.bgMagenta("Title:") + " " + chalk.magenta(js.Title))
+            eventLog(chalk.bgMagenta("Release Year:") + " " + chalk.magenta(js.Year))
+            eventLog(chalk.bgMagenta("IMDB Rating:") + " " + chalk.magenta(js.imdbRating))
+            eventLog(chalk.bgMagenta("Rotten Tomatoes Rating:") + " " + chalk.magenta(js.Ratings[1].Value))
+            eventLog(chalk.bgMagenta("Country:") + " " + chalk.magenta(js.Country))
+            eventLog(chalk.bgMagenta("Language:") + " " + chalk.magenta(js.Language))
+            eventLog(chalk.bgMagenta("Plot:") + " " + chalk.magenta(js.Plot))
+            eventLog(chalk.bgMagenta("Actors:") + " " + chalk.magenta(js.Actors))
+            eventLog(chalk.bgMagenta.bold("\n--------------------------OMDB--------------------------\n"))
         }
     })
 
@@ -168,10 +168,10 @@ function randomTxt() {
     })
 }
 
-function display(query) {
+function eventLog(query) {
     console.log(query);
     fs.appendFile("eventlog.txt", query + "\n", function(err) {
-        if (err) return display(chalk.bgRed("Logging error..."));
+        if (err) return eventLog(chalk.bgRed("Logging error..."));
     })
 }
 
