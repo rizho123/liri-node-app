@@ -238,3 +238,737 @@
 [46m--------------------------BandsInTown--------------------------[49m
 [46m[49m
 [36mCity: Las Vegas[39m
+[42m[49m
+[42m--------------------------Spotify--------------------------[49m
+[42m[49m
+[32mArtist:  Shakewell[39m
+[32mSong:  Pemex[39m
+[32mAlbum:  Pemex[39m
+[32mPreview:  https://p.scdn.co/mp3-preview/b1631f0d08423dfec1e1f690c07bc111f77e76a1?cid=24cbb64654a941229d69c5e668dadeb0[39m
+[42m[49m
+[42m--------------------------Spotify--------------------------[49m
+[42m[49m
+[42m[49m
+[42m--------------------------Spotify--------------------------[49m
+[42m[49m
+[32mArtist: [39m
+[32mAlbum:  Pemex[39m
+[32mSong:  Pemex[39m
+[42m[49m
+[42m--------------------------Spotify--------------------------[49m
+[42m[49m
+[32mPreview:  https://p.scdn.co/mp3-preview/b1631f0d08423dfec1e1f690c07bc111f77e76a1?cid=24cbb64654a941229d69c5e668dadeb0[39m
+[42m[49m
+[42m--------------------------Spotify--------------------------[49m
+[42m[49m
+[32mArtist: [39m[42m[37mShakewell[39m[49m
+[32mSong:  Pemex[39m
+[32mPreview:  https://p.scdn.co/mp3-preview/b1631f0d08423dfec1e1f690c07bc111f77e76a1?cid=24cbb64654a941229d69c5e668dadeb0[39m
+[32mAlbum:  Pemex[39m
+[42m[49m
+[42m--------------------------Spotify--------------------------[49m
+[42m[49m
+[42m[49m
+[42m--------------------------Spotify--------------------------[49m
+[42m[49m
+[42mArtist: [49m[32m[37mShakewell[32m[39m
+[42mPreview: https://p.scdn.co/mp3-preview/b1631f0d08423dfec1e1f690c07bc111f77e76a1?cid=24cbb64654a941229d69c5e668dadeb0[49m
+[42mSong: Pemex[49m
+[42mAlbum: Pemex[49m
+[42m[49m
+[42m--------------------------Spotify--------------------------[49m
+[42m[49m
+[42m[49m
+[42m--------------------------Spotify--------------------------[49m
+[42m[49m
+[42mSong:[49m [32mPemex[39m
+[42mArtist:[49m [32mShakewell[39m
+[42mPreview:[49m [32mhttps://p.scdn.co/mp3-preview/b1631f0d08423dfec1e1f690c07bc111f77e76a1?cid=24cbb64654a941229d69c5e668dadeb0[39m
+[42mAlbum:[49m [32mPemex[39m
+[42m[49m
+[42m--------------------------Spotify--------------------------[49m
+[42m[49m
+[42m[49m
+[42m--------------------------Spotify--------------------------[49m
+[42m[49m
+[42m[4mArtist:[24m[49m [32mShakewell[39m
+[42m[4mSong:[24m[49m [32mPemex[39m
+[42m[4mPreview:[24m[49m [32mhttps://p.scdn.co/mp3-preview/b1631f0d08423dfec1e1f690c07bc111f77e76a1?cid=24cbb64654a941229d69c5e668dadeb0[39m
+[42m[4mAlbum:[24m[49m [32mPemex[39m
+[42m[49m
+[42m--------------------------Spotify--------------------------[49m
+[42m[49m
+[46m[49m
+[46m--------------------------BandsInTown--------------------------[49m
+[46m[49m
+[46m[4mName: Cynthia Woods Mitchell Pavilion[24m[49m
+[46m[4mCity: Houston[24m[49m
+[46m[4mCountry: TX[24m[49m
+[46m[4mCountry: United States[24m[49m
+[46m[4mDate: 07/31/2019[24m[49m
+[46m[49m
+[46m--------------------------BandsInTown--------------------------[49m
+[46m[49m
+[46m[49m
+[46m--------------------------BandsInTown--------------------------[49m
+[46m[49m
+[46m[4mName: Austin360 Amphitheater[24m[49m
+[46m[4mCity: Austin[24m[49m
+[46m[4mCountry: TX[24m[49m
+[46m[4mCountry: United States[24m[49m
+[46m[4mDate: 08/01/2019[24m[49m
+[46m[49m
+[46m--------------------------BandsInTown--------------------------[49m
+[46m[49m
+[46m[49m
+[46m--------------------------BandsInTown--------------------------[49m
+[46m[49m
+[46m[4mName: The Dos Equis Pavilion[24m[49m
+[46m[4mCity: Dallas[24m[49m
+[46m[4mCountry: TX[24m[49m
+[46m[4mCountry: United States[24m[49m
+[46m[4mDate: 08/02/2019[24m[49m
+[46m[49m
+[46m--------------------------BandsInTown--------------------------[49m
+[46m[49m
+[46m[49m
+[46m--------------------------BandsInTown--------------------------[49m
+[46m[49m
+[46m[4mName: Ak-Chin Pavilion[24m[49m
+[46m[4mCity: Phoenix[24m[49m
+[46m[4mCountry: AZ[24m[49m
+[46m[4mCountry: United States[24m[49m
+[46m[4mDate: 08/05/2019[24m[49m
+[46m[49m
+[46m--------------------------BandsInTown--------------------------[49m
+[46m[49m
+[46m[49m
+[46m--------------------------BandsInTown--------------------------[49m
+[46m[49m
+[46m[4mName: North Island Credit Union Amphitheatre[24m[49m
+[46m[4mCity: San Diego[24m[49m
+[46m[4mCountry: CA[24m[49m
+[46m[4mCountry: United States[24m[49m
+[46m[4mDate: 08/07/2019[24m[49m
+[46m[49m
+[46m--------------------------BandsInTown--------------------------[49m
+[46m[49m
+[46m[49m
+[46m--------------------------BandsInTown--------------------------[49m
+[46m[49m
+[46m[4mName: The Forum[24m[49m
+[46m[4mCity: Los Angeles[24m[49m
+[46m[4mCountry: CA[24m[49m
+[46m[4mCountry: United States[24m[49m
+[46m[4mDate: 08/08/2019[24m[49m
+[46m[49m
+[46m--------------------------BandsInTown--------------------------[49m
+[46m[49m
+[46m[49m
+[46m--------------------------BandsInTown--------------------------[49m
+[46m[49m
+[46m[4mName: Outside Lands Music Festival[24m[49m
+[46m[4mCity: San Francisco[24m[49m
+[46m[4mCountry: CA[24m[49m
+[46m[4mCountry: United States[24m[49m
+[46m[4mDate: 08/09/2019[24m[49m
+[46m[49m
+[46m--------------------------BandsInTown--------------------------[49m
+[46m[49m
+[46m[49m
+[46m--------------------------BandsInTown--------------------------[49m
+[46m[49m
+[46m[4mName: FivePoint Amphitheatre[24m[49m
+[46m[4mCity: Irvine[24m[49m
+[46m[4mCountry: CA[24m[49m
+[46m[4mCountry: United States[24m[49m
+[46m[4mDate: 08/27/2019[24m[49m
+[46m[49m
+[46m--------------------------BandsInTown--------------------------[49m
+[46m[49m
+[46m[49m
+[46m--------------------------BandsInTown--------------------------[49m
+[46m[49m
+[46m[4mName: Sunlight Supply Amphitheater[24m[49m
+[46m[4mCity: Portland[24m[49m
+[46m[4mCountry: OR[24m[49m
+[46m[4mCountry: United States[24m[49m
+[46m[4mDate: 08/30/2019[24m[49m
+[46m[49m
+[46m--------------------------BandsInTown--------------------------[49m
+[46m[49m
+[46m[49m
+[46m--------------------------BandsInTown--------------------------[49m
+[46m[49m
+[46m[4mName: White River Amphitheatre[24m[49m
+[46m[4mCity: Seattle[24m[49m
+[46m[4mCountry: WA[24m[49m
+[46m[4mCountry: United States[24m[49m
+[46m[4mDate: 08/31/2019[24m[49m
+[46m[49m
+[46m--------------------------BandsInTown--------------------------[49m
+[46m[49m
+[46m[49m
+[46m--------------------------BandsInTown--------------------------[49m
+[46m[49m
+[46m[4mName: USANA Amphitheatre[24m[49m
+[46m[4mCity: Salt Lake City[24m[49m
+[46m[4mCountry: UT[24m[49m
+[46m[4mCountry: United States[24m[49m
+[46m[4mDate: 09/02/2019[24m[49m
+[46m[49m
+[46m--------------------------BandsInTown--------------------------[49m
+[46m[49m
+[46m[49m
+[46m--------------------------BandsInTown--------------------------[49m
+[46m[49m
+[46m[4mName: Pepsi Center[24m[49m
+[46m[4mCity: Denver[24m[49m
+[46m[4mCountry: CO[24m[49m
+[46m[4mCountry: United States[24m[49m
+[46m[4mDate: 09/04/2019[24m[49m
+[46m[49m
+[46m--------------------------BandsInTown--------------------------[49m
+[46m[49m
+[46m[49m
+[46m--------------------------BandsInTown--------------------------[49m
+[46m[49m
+[46m[4mName: Providence Medical Center Amphitheater[24m[49m
+[46m[4mCity: Kansas City[24m[49m
+[46m[4mCountry: MO[24m[49m
+[46m[4mCountry: United States[24m[49m
+[46m[4mDate: 09/08/2019[24m[49m
+[46m[49m
+[46m--------------------------BandsInTown--------------------------[49m
+[46m[49m
+[46m[49m
+[46m--------------------------BandsInTown--------------------------[49m
+[46m[49m
+[46m[4mName: DTE Energy Music Theatre[24m[49m
+[46m[4mCity: Detroit[24m[49m
+[46m[4mCountry: MI[24m[49m
+[46m[4mCountry: United States[24m[49m
+[46m[4mDate: 09/10/2019[24m[49m
+[46m[49m
+[46m--------------------------BandsInTown--------------------------[49m
+[46m[49m
+[46m[49m
+[46m--------------------------BandsInTown--------------------------[49m
+[46m[49m
+[46m[4mName: Xcel Energy Center[24m[49m
+[46m[4mCity: St Paul[24m[49m
+[46m[4mCountry: MN[24m[49m
+[46m[4mCountry: United States[24m[49m
+[46m[4mDate: 09/12/2019[24m[49m
+[46m[49m
+[46m--------------------------BandsInTown--------------------------[49m
+[46m[49m
+[46m[49m
+[46m--------------------------BandsInTown--------------------------[49m
+[46m[49m
+[46m[4mName: Hollywood Casino Amphitheatre[24m[49m
+[46m[4mCity: Saint Francisville[24m[49m
+[46m[4mCountry: MO[24m[49m
+[46m[4mCountry: United States[24m[49m
+[46m[4mDate: 09/14/2019[24m[49m
+[46m[49m
+[46m--------------------------BandsInTown--------------------------[49m
+[46m[49m
+[46m[4mName: Riverbend Music Center[24m[49m
+[46m[49m
+[46m--------------------------BandsInTown--------------------------[49m
+[46m[49m
+[46m[4mCity: Cincinnati[24m[49m
+[46m[4mCountry: OH[24m[49m
+[46m[4mCountry: United States[24m[49m
+[46m[4mDate: 09/16/2019[24m[49m
+[46m[49m
+[46m--------------------------BandsInTown--------------------------[49m
+[46m[49m
+[46m[49m
+[46m--------------------------BandsInTown--------------------------[49m
+[46m[49m
+[46m[4mName: BB&T Pavilion[24m[49m
+[46m[4mCity: Camden[24m[49m
+[46m[4mCountry: NJ[24m[49m
+[46m[4mCountry: United States[24m[49m
+[46m[4mDate: 09/18/2019[24m[49m
+[46m[49m
+[46m--------------------------BandsInTown--------------------------[49m
+[46m[49m
+[46m[49m
+[46m--------------------------BandsInTown--------------------------[49m
+[46m[49m
+[46m[4mName: Barclays Center[24m[49m
+[46m[4mCity: Brooklyn[24m[49m
+[46m[4mCountry: NY[24m[49m
+[46m[4mCountry: United States[24m[49m
+[46m[4mDate: 09/20/2019[24m[49m
+[46m[49m
+[46m--------------------------BandsInTown--------------------------[49m
+[46m[49m
+[46m[49m
+[46m--------------------------BandsInTown--------------------------[49m
+[46m[49m
+[46m[4mName: LIFE IS BEAUTIFUL[24m[49m
+[46m[4mCity: Las Vegas[24m[49m
+[46m[4mCountry: NV[24m[49m
+[46m[4mCountry: United States[24m[49m
+[46m[4mDate: 09/21/2019[24m[49m
+[46m[49m
+[46m--------------------------BandsInTown--------------------------[49m
+[46m[49m
+[46m[49m
+[46m--------------------------BandsInTown--------------------------[49m
+[46m[49m
+[46m[4mName:[24m[49m [36mCynthia Woods Mitchell Pavilion[39m
+[46m[4mCity:[24m[49m [36mHouston[39m
+[46m[4mCountry:[24m[49m [36mTX[39m
+[46m[4mCountry:[24m[49m [36mUnited States[39m
+[46m[4mDate:[24m[49m [36m07/31/2019[39m
+[46m[49m
+[46m--------------------------BandsInTown--------------------------[49m
+[46m[49m
+[46m[49m
+[46m--------------------------BandsInTown--------------------------[49m
+[46m[49m
+[46m[4mName:[24m[49m [36mAustin360 Amphitheater[39m
+[46m[4mCity:[24m[49m [36mAustin[39m
+[46m[4mCountry:[24m[49m [36mTX[39m
+[46m[4mCountry:[24m[49m [36mUnited States[39m
+[46m[4mDate:[24m[49m [36m08/01/2019[39m
+[46m[49m
+[46m--------------------------BandsInTown--------------------------[49m
+[46m[49m
+[46m[49m
+[46m--------------------------BandsInTown--------------------------[49m
+[46m[49m
+[46m[4mName:[24m[49m [36mThe Dos Equis Pavilion[39m
+[46m[4mCity:[24m[49m [36mDallas[39m
+[46m[4mCountry:[24m[49m [36mTX[39m
+[46m[4mCountry:[24m[49m [36mUnited States[39m
+[46m[4mDate:[24m[49m [36m08/02/2019[39m
+[46m[49m
+[46m--------------------------BandsInTown--------------------------[49m
+[46m[49m
+[46m[49m
+[46m--------------------------BandsInTown--------------------------[49m
+[46m[49m
+[46m[4mName:[24m[49m [36mAk-Chin Pavilion[39m
+[46m[4mCity:[24m[49m [36mPhoenix[39m
+[46m[4mCountry:[24m[49m [36mAZ[39m
+[46m[4mCountry:[24m[49m [36mUnited States[39m
+[46m[4mDate:[24m[49m [36m08/05/2019[39m
+[46m[49m
+[46m--------------------------BandsInTown--------------------------[49m
+[46m[49m
+[46m[49m
+[46m--------------------------BandsInTown--------------------------[49m
+[46m[49m
+[46m[4mName:[24m[49m [36mNorth Island Credit Union Amphitheatre[39m
+[46m[4mCity:[24m[49m [36mSan Diego[39m
+[46m[4mCountry:[24m[49m [36mCA[39m
+[46m[4mCountry:[24m[49m [36mUnited States[39m
+[46m[4mDate:[24m[49m [36m08/07/2019[39m
+[46m[49m
+[46m--------------------------BandsInTown--------------------------[49m
+[46m[49m
+[46m[49m
+[46m--------------------------BandsInTown--------------------------[49m
+[46m[49m
+[46m[4mName:[24m[49m [36mThe Forum[39m
+[46m[4mCity:[24m[49m [36mLos Angeles[39m
+[46m[4mCountry:[24m[49m [36mCA[39m
+[46m[4mCountry:[24m[49m [36mUnited States[39m
+[46m[4mDate:[24m[49m [36m08/08/2019[39m
+[46m[49m
+[46m--------------------------BandsInTown--------------------------[49m
+[46m[49m
+[46m[49m
+[46m--------------------------BandsInTown--------------------------[49m
+[46m[49m
+[46m[4mName:[24m[49m [36mOutside Lands Music Festival[39m
+[46m[4mCity:[24m[49m [36mSan Francisco[39m
+[46m[4mCountry:[24m[49m [36mCA[39m
+[46m[4mCountry:[24m[49m [36mUnited States[39m
+[46m[4mDate:[24m[49m [36m08/09/2019[39m
+[46m[49m
+[46m--------------------------BandsInTown--------------------------[49m
+[46m[49m
+[46m[49m
+[46m--------------------------BandsInTown--------------------------[49m
+[46m[49m
+[46m[4mName:[24m[49m [36mFivePoint Amphitheatre[39m
+[46m[4mCity:[24m[49m [36mIrvine[39m
+[46m[4mCountry:[24m[49m [36mCA[39m
+[46m[4mCountry:[24m[49m [36mUnited States[39m
+[46m[4mDate:[24m[49m [36m08/27/2019[39m
+[46m[49m
+[46m--------------------------BandsInTown--------------------------[49m
+[46m[49m
+[46m[49m
+[46m--------------------------BandsInTown--------------------------[49m
+[46m[49m
+[46m[4mName:[24m[49m [36mSunlight Supply Amphitheater[39m
+[46m[4mCity:[24m[49m [36mPortland[39m
+[46m[4mCountry:[24m[49m [36mOR[39m
+[46m[4mCountry:[24m[49m [36mUnited States[39m
+[46m[4mDate:[24m[49m [36m08/30/2019[39m
+[46m[49m
+[46m--------------------------BandsInTown--------------------------[49m
+[46m[49m
+[46m[49m
+[46m--------------------------BandsInTown--------------------------[49m
+[46m[49m
+[46m[4mName:[24m[49m [36mWhite River Amphitheatre[39m
+[46m[4mCity:[24m[49m [36mSeattle[39m
+[46m[4mCountry:[24m[49m [36mWA[39m
+[46m[4mCountry:[24m[49m [36mUnited States[39m
+[46m[4mDate:[24m[49m [36m08/31/2019[39m
+[46m[49m
+[46m--------------------------BandsInTown--------------------------[49m
+[46m[49m
+[46m[49m
+[46m--------------------------BandsInTown--------------------------[49m
+[46m[49m
+[46m[4mName:[24m[49m [36mUSANA Amphitheatre[39m
+[46m[4mCity:[24m[49m [36mSalt Lake City[39m
+[46m[4mCountry:[24m[49m [36mUT[39m
+[46m[4mCountry:[24m[49m [36mUnited States[39m
+[46m[4mDate:[24m[49m [36m09/02/2019[39m
+[46m[49m
+[46m--------------------------BandsInTown--------------------------[49m
+[46m[49m
+[46m[49m
+[46m--------------------------BandsInTown--------------------------[49m
+[46m[49m
+[46m[4mName:[24m[49m [36mPepsi Center[39m
+[46m[4mCity:[24m[49m [36mDenver[39m
+[46m[4mCountry:[24m[49m [36mCO[39m
+[46m[4mCountry:[24m[49m [36mUnited States[39m
+[46m[4mDate:[24m[49m [36m09/04/2019[39m
+[46m[49m
+[46m--------------------------BandsInTown--------------------------[49m
+[46m[49m
+[46m[49m
+[46m--------------------------BandsInTown--------------------------[49m
+[46m[49m
+[46m[4mName:[24m[49m [36mProvidence Medical Center Amphitheater[39m
+[46m[4mCity:[24m[49m [36mKansas City[39m
+[46m[4mCountry:[24m[49m [36mMO[39m
+[46m[4mCountry:[24m[49m [36mUnited States[39m
+[46m[4mDate:[24m[49m [36m09/08/2019[39m
+[46m[49m
+[46m--------------------------BandsInTown--------------------------[49m
+[46m[49m
+[46m[49m
+[46m--------------------------BandsInTown--------------------------[49m
+[46m[49m
+[46m[4mName:[24m[49m [36mDTE Energy Music Theatre[39m
+[46m[4mCity:[24m[49m [36mDetroit[39m
+[46m[4mCountry:[24m[49m [36mMI[39m
+[46m[4mCountry:[24m[49m [36mUnited States[39m
+[46m[4mDate:[24m[49m [36m09/10/2019[39m
+[46m[49m
+[46m--------------------------BandsInTown--------------------------[49m
+[46m[49m
+[46m[49m
+[46m--------------------------BandsInTown--------------------------[49m
+[46m[49m
+[46m[4mName:[24m[49m [36mXcel Energy Center[39m
+[46m[4mCity:[24m[49m [36mSt Paul[39m
+[46m[4mCountry:[24m[49m [36mMN[39m
+[46m[4mCountry:[24m[49m [36mUnited States[39m
+[46m[4mDate:[24m[49m [36m09/12/2019[39m
+[46m[49m
+[46m--------------------------BandsInTown--------------------------[49m
+[46m[49m
+[46m[49m
+[46m--------------------------BandsInTown--------------------------[49m
+[46m[49m
+[46m[4mName:[24m[49m [36mHollywood Casino Amphitheatre[39m
+[46m[4mCity:[24m[49m [36mSaint Francisville[39m
+[46m[4mCountry:[24m[49m [36mMO[39m
+[46m[4mCountry:[24m[49m [36mUnited States[39m
+[46m[49m
+[46m--------------------------BandsInTown--------------------------[49m
+[46m[49m
+[46m[49m
+[46m--------------------------BandsInTown--------------------------[49m
+[46m[49m
+[46m[4mDate:[24m[49m [36m09/14/2019[39m
+[46m[4mName:[24m[49m [36mRiverbend Music Center[39m
+[46m[4mCity:[24m[49m [36mCincinnati[39m
+[46m[4mCountry:[24m[49m [36mOH[39m
+[46m[4mCountry:[24m[49m [36mUnited States[39m
+[46m[4mDate:[24m[49m [36m09/16/2019[39m
+[46m[49m
+[46m--------------------------BandsInTown--------------------------[49m
+[46m[49m
+[46m[49m
+[46m--------------------------BandsInTown--------------------------[49m
+[46m[49m
+[46m[4mCity:[24m[49m [36mCamden[39m
+[46m[4mName:[24m[49m [36mBB&T Pavilion[39m
+[46m[4mCountry:[24m[49m [36mNJ[39m
+[46m[4mCountry:[24m[49m [36mUnited States[39m
+[46m[4mDate:[24m[49m [36m09/18/2019[39m
+[46m[49m
+[46m--------------------------BandsInTown--------------------------[49m
+[46m[49m
+[46m[49m
+[46m--------------------------BandsInTown--------------------------[49m
+[46m[49m
+[46m[4mName:[24m[49m [36mBarclays Center[39m
+[46m[4mCity:[24m[49m [36mBrooklyn[39m
+[46m[4mCountry:[24m[49m [36mNY[39m
+[46m[4mCountry:[24m[49m [36mUnited States[39m
+[46m[4mDate:[24m[49m [36m09/20/2019[39m
+[46m[49m
+[46m--------------------------BandsInTown--------------------------[49m
+[46m[49m
+[46m[49m
+[46m--------------------------BandsInTown--------------------------[49m
+[46m[49m
+[46m[4mName:[24m[49m [36mLIFE IS BEAUTIFUL[39m
+[46m[4mCity:[24m[49m [36mLas Vegas[39m
+[46m[4mCountry:[24m[49m [36mNV[39m
+[46m[4mCountry:[24m[49m [36mUnited States[39m
+[46m[4mDate:[24m[49m [36m09/21/2019[39m
+[46m[49m
+[46m--------------------------BandsInTown--------------------------[49m
+[46m[49m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mName:[24m[49m [36mCynthia Woods Mitchell Pavilion[39m
+[46m[4mCountry:[24m[49m [36mUnited States[39m
+[46m[4mDate:[24m[49m [36m07/31/2019[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mName:[24m[49m [36mAustin360 Amphitheater[39m
+[46m[4mCity:[24m[49m [36mAustin[39m
+[46m[4mCountry:[24m[49m [36mTX[39m
+[46m[4mCountry:[24m[49m [36mUnited States[39m
+[46m[4mDate:[24m[49m [36m08/01/2019[39m
+[46m[4mCity:[24m[49m [36mHouston[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mName:[24m[49m [36mThe Dos Equis Pavilion[39m
+[46m[4mCity:[24m[49m [36mDallas[39m
+[46m[4mCountry:[24m[49m [36mTX[39m
+[46m[4mDate:[24m[49m [36m08/02/2019[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mName:[24m[49m [36mAk-Chin Pavilion[39m
+[46m[4mCountry:[24m[49m [36mTX[39m
+[46m[4mCity:[24m[49m [36mPhoenix[39m
+[46m[4mCountry:[24m[49m [36mAZ[39m
+[46m[4mCountry:[24m[49m [36mUnited States[39m
+[46m[4mCountry:[24m[49m [36mUnited States[39m
+[46m[4mDate:[24m[49m [36m08/05/2019[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mName:[24m[49m [36mNorth Island Credit Union Amphitheatre[39m
+[46m[4mCity:[24m[49m [36mSan Diego[39m
+[46m[4mCountry:[24m[49m [36mCA[39m
+[46m[4mCountry:[24m[49m [36mUnited States[39m
+[46m[4mDate:[24m[49m [36m08/07/2019[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mName:[24m[49m [36mThe Forum[39m
+[46m[4mCity:[24m[49m [36mLos Angeles[39m
+[46m[4mCountry:[24m[49m [36mCA[39m
+[46m[4mCountry:[24m[49m [36mUnited States[39m
+[46m[4mDate:[24m[49m [36m08/08/2019[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mName:[24m[49m [36mOutside Lands Music Festival[39m
+[46m[4mCity:[24m[49m [36mSan Francisco[39m
+[46m[4mCountry:[24m[49m [36mCA[39m
+[46m[4mCountry:[24m[49m [36mUnited States[39m
+[46m[4mDate:[24m[49m [36m08/09/2019[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mName:[24m[49m [36mFivePoint Amphitheatre[39m
+[46m[4mCity:[24m[49m [36mIrvine[39m
+[46m[4mCountry:[24m[49m [36mCA[39m
+[46m[4mCountry:[24m[49m [36mUnited States[39m
+[46m[4mDate:[24m[49m [36m08/27/2019[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mCity:[24m[49m [36mPortland[39m
+[46m[4mName:[24m[49m [36mSunlight Supply Amphitheater[39m
+[46m[4mCountry:[24m[49m [36mOR[39m
+[46m[4mCountry:[24m[49m [36mUnited States[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mName:[24m[49m [36mWhite River Amphitheatre[39m
+[46m[4mCountry:[24m[49m [36mUnited States[39m
+[46m[4mDate:[24m[49m [36m08/31/2019[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mCountry:[24m[49m [36mWA[39m
+[46m[4mName:[24m[49m [36mUSANA Amphitheatre[39m
+[46m[4mCity:[24m[49m [36mSalt Lake City[39m
+[46m[4mCountry:[24m[49m [36mUT[39m
+[46m[4mCountry:[24m[49m [36mUnited States[39m
+[46m[4mDate:[24m[49m [36m08/30/2019[39m
+[46m[4mCity:[24m[49m [36mSeattle[39m
+[46m[4mDate:[24m[49m [36m09/02/2019[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mCountry:[24m[49m [36mCO[39m
+[46m[4mCountry:[24m[49m [36mUnited States[39m
+[46m[4mDate:[24m[49m [36m09/04/2019[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mName:[24m[49m [36mProvidence Medical Center Amphitheater[39m
+[46m[4mCity:[24m[49m [36mKansas City[39m
+[46m[4mCountry:[24m[49m [36mMO[39m
+[46m[4mCountry:[24m[49m [36mUnited States[39m
+[46m[4mDate:[24m[49m [36m09/08/2019[39m
+[46m[4mName:[24m[49m [36mPepsi Center[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mName:[24m[49m [36mDTE Energy Music Theatre[39m
+[46m[4mCountry:[24m[49m [36mMI[39m
+[46m[4mCountry:[24m[49m [36mUnited States[39m
+[46m[4mDate:[24m[49m [36m09/10/2019[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mName:[24m[49m [36mXcel Energy Center[39m
+[46m[4mCity:[24m[49m [36mSt Paul[39m
+[46m[4mCountry:[24m[49m [36mMN[39m
+[46m[4mCountry:[24m[49m [36mUnited States[39m
+[46m[4mDate:[24m[49m [36m09/12/2019[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mName:[24m[49m [36mHollywood Casino Amphitheatre[39m
+[46m[4mCity:[24m[49m [36mSaint Francisville[39m
+[46m[4mCity:[24m[49m [36mDetroit[39m
+[46m[4mCountry:[24m[49m [36mMO[39m
+[46m[4mCity:[24m[49m [36mDenver[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mDate:[24m[49m [36m09/14/2019[39m
+[46m[4mCountry:[24m[49m [36mUnited States[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mName:[24m[49m [36mRiverbend Music Center[39m
+[46m[4mCountry:[24m[49m [36mOH[39m
+[46m[4mCity:[24m[49m [36mCincinnati[39m
+[46m[4mCountry:[24m[49m [36mUnited States[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mName:[24m[49m [36mBB&T Pavilion[39m
+[46m[4mCity:[24m[49m [36mCamden[39m
+[46m[4mDate:[24m[49m [36m09/16/2019[39m
+[46m[4mCountry:[24m[49m [36mUnited States[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mDate:[24m[49m [36m09/18/2019[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mCountry:[24m[49m [36mNJ[39m
+[46m[4mName:[24m[49m [36mBarclays Center[39m
+[46m[4mCountry:[24m[49m [36mUnited States[39m
+[46m[4mCity:[24m[49m [36mBrooklyn[39m
+[46m[4mDate:[24m[49m [36m09/20/2019[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mCountry:[24m[49m [36mNY[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mName:[24m[49m [36mLIFE IS BEAUTIFUL[39m
+[46m[4mCity:[24m[49m [36mLas Vegas[39m
+[46m[4mCountry:[24m[49m [36mNV[39m
+[46m[4mCountry:[24m[49m [36mUnited States[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mDate:[24m[49m [36m09/21/2019[39m
+[45m[1m[22m[49m
+[45m[1m--------------------------OMDB--------------------------[22m[49m
+[45m[1m[22m[49m
+[45mTitle:[49m [35mFearless[39m
+[45mIMDB Rating:[49m [35m7.7[39m
+[45mRelease Year:[49m [35m2006[39m
+[45mCountry:[49m [35mChina, Hong Kong[39m
+[45mRotten Tomatoes Rating:[49m [35m73%[39m
+[45mLanguage:[49m [35mMandarin, English, Japanese[39m
+[45mPlot:[49m [35mA biography of Chinese Martial Arts Master Huo Yuanjia, who is the founder and spiritual guru of the Jin Wu Sports Federation.[39m
+[45m[1m[22m[49m
+[45m[1m--------------------------OMDB--------------------------[22m[49m
+[45m[1m[22m[49m
+[45mActors:[49m [35mJet Li, Li Sun, Yong Dong, Yun Qu[39m
