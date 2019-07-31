@@ -98,7 +98,7 @@ request(queryUrl, function(error, response, body){
             eventLog(chalk.bgCyan.underline("Name:") + " " + chalk.cyan(js[i].venue.name));
             eventLog(chalk.bgCyan.underline("City:") + " " + chalk.cyan(js[i].venue.city));
             if (js[i].venue.region !== "") {
-                eventLog(chalk.bgCyan.underline("Country:") + " " + chalk.cyan(js[i].venue.region));
+                eventLog(chalk.bgCyan.underline("State|Region:") + " " + chalk.cyan(js[i].venue.region));
             }
             eventLog(chalk.bgCyan.underline("Country:") + " " + chalk.cyan(js[i].venue.country));
             eventLog(chalk.bgCyan.underline("Date:") + " " + chalk.cyan(fullDate));
