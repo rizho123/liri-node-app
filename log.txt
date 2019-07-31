@@ -972,3 +972,1293 @@
 [45m[1m--------------------------OMDB--------------------------[22m[49m
 [45m[1m[22m[49m
 [45mActors:[49m [35mJet Li, Li Sun, Yong Dong, Yun Qu[39m
+[45m[1m[22m[49m
+[45m[1m--------------------------OMDB--------------------------[22m[49m
+[45m[1m[22m[49m
+[45mTitle:[49m [35mFearless[39m
+[45mRelease Year:[49m [35m2006[39m
+[45mIMDB Rating:[49m [35m7.7[39m
+[45mRotten Tomatoes Rating:[49m [35m73%[39m
+[45mCountry:[49m [35mChina, Hong Kong[39m
+[45mLanguage:[49m [35mMandarin, English, Japanese[39m
+[45mPlot:[49m [35mA biography of Chinese Martial Arts Master Huo Yuanjia, who is the founder and spiritual guru of the Jin Wu Sports Federation.[39m
+[45mActors:[49m [35mJet Li, Li Sun, Yong Dong, Yun Qu[39m
+[45m[1m[22m[49m
+[45m[1m--------------------------OMDB--------------------------[22m[49m
+[45m[1m[22m[49m
+[45m[1m[22m[49m
+[45m[1m--------------------------OMDB--------------------------[22m[49m
+[45m[1m[22m[49m
+[45mTitle:[49m [35mIp Man[39m
+[45mRelease Year:[49m [35m2008[39m
+[45mIMDB Rating:[49m [35m8.0[39m
+[45mRotten Tomatoes Rating:[49m [35m85%[39m
+[45mCountry:[49m [35mHong Kong, China[39m
+[45mLanguage:[49m [35mCantonese, Mandarin, Japanese[39m
+[45mPlot:[49m [35mDuring the Japanese invasion of 1937, when a wealthy martial artist is forced to leave his home and work to support his family, he reluctantly agrees to train others in the art of Wing Chun for self-defense.[39m
+[45mActors:[49m [35mDonnie Yen, Simon Yam, Lynn Xiong, Hiroyuki Ikeuchi[39m
+[45m[1m[22m[49m
+[45m[1m--------------------------OMDB--------------------------[22m[49m
+[45m[1m[22m[49m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mName:[24m[49m [36mCynthia Woods Mitchell Pavilion[39m
+[46m[4mCity:[24m[49m [36mHouston[39m
+[46m[4mCountry:[24m[49m [36mTX[39m
+[46m[4mCountry:[24m[49m [36mUnited States[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mDate:[24m[49m [36m07/31/2019[39m
+[46m[4mName:[24m[49m [36mAustin360 Amphitheater[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mCity:[24m[49m [36mAustin[39m
+[46m[4mCountry:[24m[49m [36mUnited States[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mCountry:[24m[49m [36mTX[39m
+[46m[4mDate:[24m[49m [36m08/01/2019[39m
+[46m[4mName:[24m[49m [36mThe Dos Equis Pavilion[39m
+[46m[4mCountry:[24m[49m [36mTX[39m
+[46m[4mCity:[24m[49m [36mDallas[39m
+[46m[4mCountry:[24m[49m [36mUnited States[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mDate:[24m[49m [36m08/02/2019[39m
+[46m[4mName:[24m[49m [36mAk-Chin Pavilion[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mCountry:[24m[49m [36mAZ[39m
+[46m[4mCity:[24m[49m [36mPhoenix[39m
+[46m[4mCountry:[24m[49m [36mUnited States[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mDate:[24m[49m [36m08/05/2019[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mName:[24m[49m [36mNorth Island Credit Union Amphitheatre[39m
+[46m[4mCountry:[24m[49m [36mCA[39m
+[46m[4mCity:[24m[49m [36mSan Diego[39m
+[46m[4mDate:[24m[49m [36m08/07/2019[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mName:[24m[49m [36mThe Forum[39m
+[46m[4mCountry:[24m[49m [36mUnited States[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mCountry:[24m[49m [36mCA[39m
+[46m[4mCity:[24m[49m [36mLos Angeles[39m
+[46m[4mCountry:[24m[49m [36mUnited States[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mName:[24m[49m [36mOutside Lands Music Festival[39m
+[46m[4mDate:[24m[49m [36m08/08/2019[39m
+[46m[4mCity:[24m[49m [36mSan Francisco[39m
+[46m[4mCountry:[24m[49m [36mUnited States[39m
+[46m[4mDate:[24m[49m [36m08/09/2019[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mName:[24m[49m [36mFivePoint Amphitheatre[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mCountry:[24m[49m [36mCA[39m
+[46m[4mCity:[24m[49m [36mIrvine[39m
+[46m[4mDate:[24m[49m [36m08/27/2019[39m
+[46m[4mCountry:[24m[49m [36mUnited States[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mName:[24m[49m [36mSunlight Supply Amphitheater[39m
+[46m[4mCity:[24m[49m [36mPortland[39m
+[46m[4mCountry:[24m[49m [36mCA[39m
+[46m[4mCountry:[24m[49m [36mUnited States[39m
+[46m[4mCountry:[24m[49m [36mOR[39m
+[46m[4mDate:[24m[49m [36m08/30/2019[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mName:[24m[49m [36mWhite River Amphitheatre[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mCountry:[24m[49m [36mWA[39m
+[46m[4mCountry:[24m[49m [36mUnited States[39m
+[46m[4mDate:[24m[49m [36m08/31/2019[39m
+[46m[4mCity:[24m[49m [36mSeattle[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mCity:[24m[49m [36mSalt Lake City[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mCountry:[24m[49m [36mUT[39m
+[46m[4mName:[24m[49m [36mUSANA Amphitheatre[39m
+[46m[4mCountry:[24m[49m [36mUnited States[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mDate:[24m[49m [36m09/02/2019[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mName:[24m[49m [36mPepsi Center[39m
+[46m[4mCity:[24m[49m [36mDenver[39m
+[46m[4mCountry:[24m[49m [36mUnited States[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mDate:[24m[49m [36m09/04/2019[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mName:[24m[49m [36mProvidence Medical Center Amphitheater[39m
+[46m[4mCity:[24m[49m [36mKansas City[39m
+[46m[4mCountry:[24m[49m [36mCO[39m
+[46m[4mCountry:[24m[49m [36mMO[39m
+[46m[4mCountry:[24m[49m [36mUnited States[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mName:[24m[49m [36mDTE Energy Music Theatre[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mDate:[24m[49m [36m09/08/2019[39m
+[46m[4mCountry:[24m[49m [36mUnited States[39m
+[46m[4mCountry:[24m[49m [36mMI[39m
+[46m[4mCity:[24m[49m [36mDetroit[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mDate:[24m[49m [36m09/10/2019[39m
+[46m[4mName:[24m[49m [36mXcel Energy Center[39m
+[46m[4mCity:[24m[49m [36mSt Paul[39m
+[46m[4mCountry:[24m[49m [36mUnited States[39m
+[46m[4mCountry:[24m[49m [36mMN[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mCity:[24m[49m [36mSaint Francisville[39m
+[46m[4mName:[24m[49m [36mHollywood Casino Amphitheatre[39m
+[46m[4mDate:[24m[49m [36m09/12/2019[39m
+[46m[4mCountry:[24m[49m [36mMO[39m
+[46m[4mCountry:[24m[49m [36mUnited States[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mDate:[24m[49m [36m09/14/2019[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mCity:[24m[49m [36mCincinnati[39m
+[46m[4mName:[24m[49m [36mRiverbend Music Center[39m
+[46m[4mCountry:[24m[49m [36mOH[39m
+[46m[4mCountry:[24m[49m [36mUnited States[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mCity:[24m[49m [36mCamden[39m
+[46m[4mDate:[24m[49m [36m09/16/2019[39m
+[46m[4mName:[24m[49m [36mBB&T Pavilion[39m
+[46m[4mCountry:[24m[49m [36mUnited States[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mCountry:[24m[49m [36mNJ[39m
+[46m[4mDate:[24m[49m [36m09/18/2019[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mCity:[24m[49m [36mBrooklyn[39m
+[46m[4mName:[24m[49m [36mBarclays Center[39m
+[46m[4mCountry:[24m[49m [36mUnited States[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mDate:[24m[49m [36m09/20/2019[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mCountry:[24m[49m [36mNY[39m
+[46m[4mName:[24m[49m [36mLIFE IS BEAUTIFUL[39m
+[46m[4mCity:[24m[49m [36mLas Vegas[39m
+[46m[4mCountry:[24m[49m [36mUnited States[39m
+[46m[4mCountry:[24m[49m [36mNV[39m
+[46m[4mDate:[24m[49m [36m09/21/2019[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mName:[24m[49m [36mLADY GAGA ENIGMA[39m
+[46m[4mCountry:[24m[49m [36mNV[39m
+[46m[4mCity:[24m[49m [36mLas Vegas[39m
+[46m[4mDate:[24m[49m [36m10/17/2019[39m
+[46m[4mCountry:[24m[49m [36mUnited States[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mName:[24m[49m [36mLADY GAGA ENIGMA[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mCity:[24m[49m [36mLas Vegas[39m
+[46m[4mCountry:[24m[49m [36mNV[39m
+[46m[4mCountry:[24m[49m [36mUnited States[39m
+[46m[4mDate:[24m[49m [36m10/19/2019[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mCity:[24m[49m [36mLas Vegas[39m
+[46m[4mName:[24m[49m [36mLADY GAGA JAZZ & PIANO[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mCountry:[24m[49m [36mNV[39m
+[46m[4mDate:[24m[49m [36m10/20/2019[39m
+[46m[4mCountry:[24m[49m [36mUnited States[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mCity:[24m[49m [36mLas Vegas[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mCountry:[24m[49m [36mNV[39m
+[46m[4mName:[24m[49m [36mLADY GAGA ENIGMA[39m
+[46m[4mDate:[24m[49m [36m10/23/2019[39m
+[46m[4mCountry:[24m[49m [36mUnited States[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mCity:[24m[49m [36mLas Vegas[39m
+[46m[4mName:[24m[49m [36mLADY GAGA ENIGMA[39m
+[46m[4mDate:[24m[49m [36m10/25/2019[39m
+[46m[4mCountry:[24m[49m [36mUnited States[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mCountry:[24m[49m [36mNV[39m
+[46m[4mName:[24m[49m [36mLADY GAGA JAZZ & PIANO[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mCountry:[24m[49m [36mUnited States[39m
+[46m[4mCity:[24m[49m [36mLas Vegas[39m
+[46m[4mDate:[24m[49m [36m10/26/2019[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mName:[24m[49m [36mLADY GAGA ENIGMA[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mCountry:[24m[49m [36mNV[39m
+[46m[4mCity:[24m[49m [36mLas Vegas[39m
+[46m[4mCountry:[24m[49m [36mUnited States[39m
+[46m[4mDate:[24m[49m [36m10/31/2019[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mName:[24m[49m [36mLADY GAGA ENIGMA[39m
+[46m[4mCountry:[24m[49m [36mNV[39m
+[46m[4mCity:[24m[49m [36mLas Vegas[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mCountry:[24m[49m [36mNV[39m
+[46m[4mCountry:[24m[49m [36mUnited States[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mDate:[24m[49m [36m11/02/2019[39m
+[46m[4mName:[24m[49m [36mLADY GAGA JAZZ & PIANO[39m
+[46m[4mCity:[24m[49m [36mLas Vegas[39m
+[46m[4mCountry:[24m[49m [36mUnited States[39m
+[46m[4mCountry:[24m[49m [36mNV[39m
+[46m[4mDate:[24m[49m [36m11/03/2019[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mName:[24m[49m [36mLADY GAGA ENIGMA[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mCountry:[24m[49m [36mNV[39m
+[46m[4mCountry:[24m[49m [36mUnited States[39m
+[46m[4mCity:[24m[49m [36mLas Vegas[39m
+[46m[4mDate:[24m[49m [36m11/06/2019[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mName:[24m[49m [36mLADY GAGA ENIGMA[39m
+[46m[4mCity:[24m[49m [36mLas Vegas[39m
+[46m[4mCountry:[24m[49m [36mUnited States[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mDate:[24m[49m [36m11/08/2019[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mCountry:[24m[49m [36mNV[39m
+[46m[4mCity:[24m[49m [36mLas Vegas[39m
+[46m[4mName:[24m[49m [36mLADY GAGA JAZZ & PIANO[39m
+[46m[4mCountry:[24m[49m [36mNV[39m
+[46m[4mCountry:[24m[49m [36mUnited States[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mDate:[24m[49m [36m11/09/2019[39m
+[46m[4mName:[24m[49m [36mLADY GAGA ENIGMA[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mCountry:[24m[49m [36mNV[39m
+[46m[4mCountry:[24m[49m [36mUnited States[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mDate:[24m[49m [36m12/28/2019[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mName:[24m[49m [36mLADY GAGA ENIGMA[39m
+[46m[4mCity:[24m[49m [36mLas Vegas[39m
+[46m[4mCountry:[24m[49m [36mNV[39m
+[46m[4mCity:[24m[49m [36mLas Vegas[39m
+[46m[4mCountry:[24m[49m [36mUnited States[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mDate:[24m[49m [36m12/30/2019[39m
+[46m[4mName:[24m[49m [36mLADY GAGA JAZZ & PIANO[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mCity:[24m[49m [36mLas Vegas[39m
+[46m[4mCountry:[24m[49m [36mUnited States[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mDate:[24m[49m [36m12/31/2019[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mName:[24m[49m [36mLADY GAGA ENIGMA[39m
+[46m[4mCountry:[24m[49m [36mNV[39m
+[46m[4mCity:[24m[49m [36mLas Vegas[39m
+[46m[4mCountry:[24m[49m [36mUnited States[39m
+[46m[4mCountry:[24m[49m [36mNV[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mName:[24m[49m [36mLADY GAGA ENIGMA[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mCity:[24m[49m [36mLas Vegas[39m
+[46m[4mDate:[24m[49m [36m04/30/2020[39m
+[46m[4mCountry:[24m[49m [36mUnited States[39m
+[46m[4mCountry:[24m[49m [36mNV[39m
+[46m[4mDate:[24m[49m [36m05/02/2020[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mName:[24m[49m [36mLADY GAGA JAZZ & PIANO[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mCountry:[24m[49m [36mUnited States[39m
+[46m[4mDate:[24m[49m [36m05/03/2020[39m
+[46m[4mCountry:[24m[49m [36mNV[39m
+[46m[4mCity:[24m[49m [36mLas Vegas[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mName:[24m[49m [36mLADY GAGA JAZZ & PIANO[39m
+[46m[4mCountry:[24m[49m [36mUnited States[39m
+[46m[4mCity:[24m[49m [36mLas Vegas[39m
+[46m[4mDate:[24m[49m [36m05/07/2020[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mName:[24m[49m [36mLADY GAGA ENIGMA[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mCountry:[24m[49m [36mNV[39m
+[46m[4mCity:[24m[49m [36mLas Vegas[39m
+[46m[4mCountry:[24m[49m [36mNV[39m
+[46m[4mDate:[24m[49m [36m05/09/2020[39m
+[46m[4mCountry:[24m[49m [36mUnited States[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mCity:[24m[49m [36mLas Vegas[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mName:[24m[49m [36mLADY GAGA JAZZ & PIANO[39m
+[46m[4mCountry:[24m[49m [36mUnited States[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mDate:[24m[49m [36m05/10/2020[39m
+[46m[4mCountry:[24m[49m [36mNV[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mName:[24m[49m [36mLADY GAGA ENIGMA[39m
+[46m[4mCity:[24m[49m [36mLas Vegas[39m
+[46m[4mCountry:[24m[49m [36mUnited States[39m
+[46m[4mDate:[24m[49m [36m05/13/2020[39m
+[46m[4mCountry:[24m[49m [36mNV[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mName:[24m[49m [36mLADY GAGA ENIGMA[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mCity:[24m[49m [36mLas Vegas[39m
+[46m[4mCountry:[24m[49m [36mUnited States[39m
+[46m[4mCountry:[24m[49m [36mNV[39m
+[46m[4mDate:[24m[49m [36m05/15/2020[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mCountry:[24m[49m [36mNV[39m
+[46m[4mName:[24m[49m [36mLADY GAGA JAZZ & PIANO[39m
+[46m[4mCountry:[24m[49m [36mUnited States[39m
+[46m[4mCity:[24m[49m [36mLas Vegas[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mDate:[24m[49m [36m05/16/2020[39m
+ERROR
+ERROR
+[42m[1m[22m[49m
+[42m[1m--------------------------Spotify--------------------------[22m[49m
+[42m[1m[22m[49m
+[42m[4mArtist:[24m[49m [32mShakewell[39m
+[42m[4mSong:[24m[49m [32mPemex[39m
+[42m[4mAlbum:[24m[49m [32mPemex[39m
+[42m[4mPreview:[24m[49m [32mhttps://p.scdn.co/mp3-preview/287979c8e4e5d345f617ec1a81039e0bdae78879?cid=24cbb64654a941229d69c5e668dadeb0[39m
+[42m[1m[22m[49m
+[42m[1m--------------------------Spotify--------------------------[22m[49m
+[42m[1m[22m[49m
+[33m[41m[1mERROR[22m[49m[39m
+[42m[1m[22m[49m
+[42m[1m--------------------------Spotify--------------------------[22m[49m
+[42m[1m[22m[49m
+[42m[4mArtist:[24m[49m [32mBackstreet Boys[39m
+[42m[4mSong:[24m[49m [32mI Want It That Way[39m
+[42m[4mPreview:[24m[49m [32mhttps://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=24cbb64654a941229d69c5e668dadeb0[39m
+[42m[1m[22m[49m
+[42m[1m--------------------------Spotify--------------------------[22m[49m
+[42m[1m[22m[49m
+[42m[4mAlbum:[24m[49m [32mThe Hits--Chapter One[39m
+[42m[1m[22m[49m
+[42m[1m--------------------------Spotify--------------------------[22m[49m
+[42m[1m[22m[49m
+[42m[4mArtist:[24m[49m [32mBackstreet Boys[39m
+[42m[4mSong:[24m[49m [32mI Want It That Way[39m
+[42m[4mAlbum:[24m[49m [32mThe Hits--Chapter One[39m
+[42m[4mPreview:[24m[49m [32mhttps://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=24cbb64654a941229d69c5e668dadeb0[39m
+[42m[1m[22m[49m
+[42m[1m--------------------------Spotify--------------------------[22m[49m
+[42m[1m[22m[49m
+[42m[1m[22m[49m
+[42m[1m--------------------------Spotify--------------------------[22m[49m
+[42m[1m[22m[49m
+[42m[4mArtist:[24m[49m [32mBackstreet Boys[39m
+[42m[4mPreview:[24m[49m [32mhttps://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=24cbb64654a941229d69c5e668dadeb0[39m
+[42m[4mSong:[24m[49m [32mI Want It That Way[39m
+[42m[4mAlbum:[24m[49m [32mThe Hits--Chapter One[39m
+[42m[1m[22m[49m
+[42m[1m--------------------------Spotify--------------------------[22m[49m
+[42m[1m[22m[49m
+[42m[1m[22m[49m
+[42m[1m--------------------------Spotify--------------------------[22m[49m
+[42m[1m[22m[49m
+[42m[4mArtist:[24m[49m [32mBackstreet Boys[39m
+[42m[4mSong:[24m[49m [32mI Want It That Way[39m
+[42m[4mAlbum:[24m[49m [32mThe Hits--Chapter One[39m
+[42m[4mPreview:[24m[49m [32mhttps://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=24cbb64654a941229d69c5e668dadeb0[39m
+[42m[1m[22m[49m
+[42m[1m--------------------------Spotify--------------------------[22m[49m
+[42m[1m[22m[49m
+[42m[1m[22m[49m
+[42m[1m--------------------------Spotify--------------------------[22m[49m
+[42m[1m[22m[49m
+[42m[4mArtist:[24m[49m [32mBackstreet Boys[39m
+[42m[4mPreview:[24m[49m [32mhttps://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=24cbb64654a941229d69c5e668dadeb0[39m
+[42m[4mSong:[24m[49m [32mI Want It That Way[39m
+[42m[1m[22m[49m
+[42m[1m--------------------------Spotify--------------------------[22m[49m
+[42m[1m[22m[49m
+[42m[4mAlbum:[24m[49m [32mThe Hits--Chapter One[39m
+[42m[1m[22m[49m
+[42m[1m--------------------------Spotify--------------------------[22m[49m
+[42m[1m[22m[49m
+[42m[4mArtist:[24m[49m [32mBackstreet Boys[39m
+[42m[4mSong:[24m[49m [32mI Want It That Way[39m
+[42m[4mAlbum:[24m[49m [32mThe Hits--Chapter One[39m
+[42m[4mPreview:[24m[49m [32mhttps://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=24cbb64654a941229d69c5e668dadeb0[39m
+[42m[1m[22m[49m
+[42m[1m--------------------------Spotify--------------------------[22m[49m
+[42m[1m[22m[49m
+[42m[1m[22m[49m
+[42m[1m--------------------------Spotify--------------------------[22m[49m
+[42m[1m[22m[49m
+[42m[4mSong:[24m[49m [32mI Want It That Way[39m
+[42m[4mArtist:[24m[49m [32mBackstreet Boys[39m
+[42m[4mAlbum:[24m[49m [32mThe Hits--Chapter One[39m
+[42m[1m[22m[49m
+[42m[1m--------------------------Spotify--------------------------[22m[49m
+[42m[1m[22m[49m
+[42m[4mPreview:[24m[49m [32mhttps://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=24cbb64654a941229d69c5e668dadeb0[39m
+[42m[1m[22m[49m
+[42m[1m--------------------------Spotify--------------------------[22m[49m
+[42m[1m[22m[49m
+[42m[4mArtist:[24m[49m [32mBackstreet Boys[39m
+[42m[4mPreview:[24m[49m [32mhttps://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=24cbb64654a941229d69c5e668dadeb0[39m
+[42m[4mSong:[24m[49m [32mI Want It That Way[39m
+[42m[4mAlbum:[24m[49m [32mThe Hits--Chapter One[39m
+[42m[1m[22m[49m
+[42m[1m--------------------------Spotify--------------------------[22m[49m
+[42m[1m[22m[49m
+[42m[1m[22m[49m
+[42m[1m--------------------------Spotify--------------------------[22m[49m
+[42m[1m[22m[49m
+[42m[4mArtist:[24m[49m [32mBackstreet Boys[39m
+[42m[4mPreview:[24m[49m [32mhttps://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=24cbb64654a941229d69c5e668dadeb0[39m
+[42m[4mSong:[24m[49m [32mI Want It That Way[39m
+[42m[4mAlbum:[24m[49m [32mThe Hits--Chapter One[39m
+[42m[1m[22m[49m
+[42m[1m--------------------------Spotify--------------------------[22m[49m
+[42m[1m[22m[49m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mName:[24m[49m [36mLADY GAGA ENIGMA[39m
+[46m[4mCity:[24m[49m [36mLas Vegas[39m
+[46m[4mCountry:[24m[49m [36mUnited States[39m
+[46m[4mCountry:[24m[49m [36mNV[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mCity:[24m[49m [36mLas Vegas[39m
+[46m[4mName:[24m[49m [36mLADY GAGA ENIGMA[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mCountry:[24m[49m [36mUnited States[39m
+[46m[4mCountry:[24m[49m [36mNV[39m
+[46m[4mDate:[24m[49m [36m10/17/2019[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mName:[24m[49m [36mLADY GAGA JAZZ & PIANO[39m
+[46m[4mDate:[24m[49m [36m10/19/2019[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mCity:[24m[49m [36mLas Vegas[39m
+[46m[4mCountry:[24m[49m [36mUnited States[39m
+[46m[4mCountry:[24m[49m [36mNV[39m
+[46m[4mDate:[24m[49m [36m10/20/2019[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mName:[24m[49m [36mLADY GAGA ENIGMA[39m
+[46m[4mCountry:[24m[49m [36mNV[39m
+[46m[4mCity:[24m[49m [36mLas Vegas[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mDate:[24m[49m [36m10/23/2019[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mCountry:[24m[49m [36mUnited States[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mName:[24m[49m [36mLADY GAGA ENIGMA[39m
+[46m[4mCountry:[24m[49m [36mNV[39m
+[46m[4mCountry:[24m[49m [36mUnited States[39m
+[46m[4mCity:[24m[49m [36mLas Vegas[39m
+[46m[4mDate:[24m[49m [36m10/25/2019[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mCity:[24m[49m [36mLas Vegas[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mCountry:[24m[49m [36mUnited States[39m
+[46m[4mName:[24m[49m [36mLADY GAGA JAZZ & PIANO[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mDate:[24m[49m [36m10/26/2019[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mCountry:[24m[49m [36mNV[39m
+[46m[4mCountry:[24m[49m [36mNV[39m
+[46m[4mName:[24m[49m [36mLADY GAGA ENIGMA[39m
+[46m[4mCountry:[24m[49m [36mUnited States[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mDate:[24m[49m [36m10/31/2019[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mCity:[24m[49m [36mLas Vegas[39m
+[46m[4mName:[24m[49m [36mLADY GAGA ENIGMA[39m
+[46m[4mCountry:[24m[49m [36mNV[39m
+[46m[4mCountry:[24m[49m [36mUnited States[39m
+[46m[4mDate:[24m[49m [36m11/02/2019[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mName:[24m[49m [36mLADY GAGA JAZZ & PIANO[39m
+[46m[4mCity:[24m[49m [36mLas Vegas[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mCountry:[24m[49m [36mNV[39m
+[46m[4mCity:[24m[49m [36mLas Vegas[39m
+[46m[4mCountry:[24m[49m [36mUnited States[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mDate:[24m[49m [36m11/03/2019[39m
+[46m[4mCity:[24m[49m [36mLas Vegas[39m
+[46m[4mName:[24m[49m [36mLADY GAGA ENIGMA[39m
+[46m[4mCountry:[24m[49m [36mNV[39m
+[46m[4mCountry:[24m[49m [36mUnited States[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mName:[24m[49m [36mLADY GAGA ENIGMA[39m
+[46m[4mCity:[24m[49m [36mLas Vegas[39m
+[46m[4mDate:[24m[49m [36m11/06/2019[39m
+[46m[4mCountry:[24m[49m [36mUnited States[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mCountry:[24m[49m [36mNV[39m
+[46m[4mDate:[24m[49m [36m11/08/2019[39m
+[46m[4mName:[24m[49m [36mLADY GAGA JAZZ & PIANO[39m
+[46m[4mCity:[24m[49m [36mLas Vegas[39m
+[46m[4mCountry:[24m[49m [36mUnited States[39m
+[46m[4mDate:[24m[49m [36m11/09/2019[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mCountry:[24m[49m [36mNV[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mName:[24m[49m [36mLADY GAGA ENIGMA[39m
+[46m[4mCountry:[24m[49m [36mNV[39m
+[46m[4mCity:[24m[49m [36mLas Vegas[39m
+[46m[4mCountry:[24m[49m [36mUnited States[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mDate:[24m[49m [36m12/28/2019[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mName:[24m[49m [36mLADY GAGA ENIGMA[39m
+[46m[4mCountry:[24m[49m [36mNV[39m
+[46m[4mCity:[24m[49m [36mLas Vegas[39m
+[46m[4mCountry:[24m[49m [36mUnited States[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mDate:[24m[49m [36m12/30/2019[39m
+[46m[4mName:[24m[49m [36mLADY GAGA JAZZ & PIANO[39m
+[46m[4mCity:[24m[49m [36mLas Vegas[39m
+[46m[4mCountry:[24m[49m [36mNV[39m
+[46m[4mCountry:[24m[49m [36mUnited States[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mDate:[24m[49m [36m12/31/2019[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mName:[24m[49m [36mLADY GAGA ENIGMA[39m
+[46m[4mCity:[24m[49m [36mLas Vegas[39m
+[46m[4mCountry:[24m[49m [36mNV[39m
+[46m[4mDate:[24m[49m [36m04/30/2020[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mCountry:[24m[49m [36mUnited States[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mName:[24m[49m [36mLADY GAGA ENIGMA[39m
+[46m[4mCountry:[24m[49m [36mNV[39m
+[46m[4mCity:[24m[49m [36mLas Vegas[39m
+[46m[4mCountry:[24m[49m [36mUnited States[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mName:[24m[49m [36mLADY GAGA JAZZ & PIANO[39m
+[46m[4mCity:[24m[49m [36mLas Vegas[39m
+[46m[4mDate:[24m[49m [36m05/02/2020[39m
+[46m[4mCountry:[24m[49m [36mUnited States[39m
+[46m[4mCountry:[24m[49m [36mNV[39m
+[46m[4mDate:[24m[49m [36m05/03/2020[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mName:[24m[49m [36mLADY GAGA JAZZ & PIANO[39m
+[46m[4mCity:[24m[49m [36mLas Vegas[39m
+[46m[4mCountry:[24m[49m [36mUnited States[39m
+[46m[4mDate:[24m[49m [36m05/07/2020[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mCountry:[24m[49m [36mNV[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mName:[24m[49m [36mLADY GAGA ENIGMA[39m
+[46m[4mCountry:[24m[49m [36mNV[39m
+[46m[4mCountry:[24m[49m [36mUnited States[39m
+[46m[4mDate:[24m[49m [36m05/09/2020[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mName:[24m[49m [36mLADY GAGA JAZZ & PIANO[39m
+[46m[4mCity:[24m[49m [36mLas Vegas[39m
+[46m[4mCountry:[24m[49m [36mNV[39m
+[46m[4mCountry:[24m[49m [36mUnited States[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mCity:[24m[49m [36mLas Vegas[39m
+[46m[4mName:[24m[49m [36mLADY GAGA ENIGMA[39m
+[46m[4mCity:[24m[49m [36mLas Vegas[39m
+[46m[4mDate:[24m[49m [36m05/10/2020[39m
+[46m[4mCountry:[24m[49m [36mNV[39m
+[46m[4mCountry:[24m[49m [36mUnited States[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mDate:[24m[49m [36m05/13/2020[39m
+[46m[4mName:[24m[49m [36mLADY GAGA ENIGMA[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mCountry:[24m[49m [36mNV[39m
+[46m[4mCountry:[24m[49m [36mUnited States[39m
+[46m[4mDate:[24m[49m [36m05/15/2020[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mCity:[24m[49m [36mLas Vegas[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mName:[24m[49m [36mLADY GAGA JAZZ & PIANO[39m
+[46m[4mCountry:[24m[49m [36mNV[39m
+[46m[4mCity:[24m[49m [36mLas Vegas[39m
+[46m[4mCountry:[24m[49m [36mUnited States[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mDate:[24m[49m [36m05/16/2020[39m
+[45m[1m[22m[49m
+[45m[1m--------------------------OMDB--------------------------[22m[49m
+[45m[1m[22m[49m
+[45mTitle:[49m [35mFearless[39m
+[45mRelease Year:[49m [35m2006[39m
+[45mRotten Tomatoes Rating:[49m [35m73%[39m
+[45mIMDB Rating:[49m [35m7.7[39m
+[45mCountry:[49m [35mChina, Hong Kong[39m
+[45mLanguage:[49m [35mMandarin, English, Japanese[39m
+[45mPlot:[49m [35mA biography of Chinese Martial Arts Master Huo Yuanjia, who is the founder and spiritual guru of the Jin Wu Sports Federation.[39m
+[45mActors:[49m [35mJet Li, Li Sun, Yong Dong, Yun Qu[39m
+[45m[1m[22m[49m
+[45m[1m--------------------------OMDB--------------------------[22m[49m
+[45m[1m[22m[49m
+[45m[1m[22m[49m
+[45m[1m--------------------------OMDB--------------------------[22m[49m
+[45m[1m[22m[49m
+[45mTitle:[49m [35mFearless[39m
+[45mRelease Year:[49m [35m2006[39m
+[45mCountry:[49m [35mChina, Hong Kong[39m
+[45mRotten Tomatoes Rating:[49m [35m73%[39m
+[45mIMDB Rating:[49m [35m7.7[39m
+[45mPlot:[49m [35mA biography of Chinese Martial Arts Master Huo Yuanjia, who is the founder and spiritual guru of the Jin Wu Sports Federation.[39m
+[45mActors:[49m [35mJet Li, Li Sun, Yong Dong, Yun Qu[39m
+[45m[1m[22m[49m
+[45m[1m--------------------------OMDB--------------------------[22m[49m
+[45m[1m[22m[49m
+[45mLanguage:[49m [35mMandarin, English, Japanese[39m
+[45m[1m[22m[49m
+[45m[1m--------------------------OMDB--------------------------[22m[49m
+[45m[1m[22m[49m
+[45mTitle:[49m [35mFearless[39m
+[45mRelease Year:[49m [35m2006[39m
+[45mRotten Tomatoes Rating:[49m [35m73%[39m
+[45mIMDB Rating:[49m [35m7.7[39m
+[45mLanguage:[49m [35mMandarin, English, Japanese[39m
+[45mPlot:[49m [35mA biography of Chinese Martial Arts Master Huo Yuanjia, who is the founder and spiritual guru of the Jin Wu Sports Federation.[39m
+[45mCountry:[49m [35mChina, Hong Kong[39m
+[45mActors:[49m [35mJet Li, Li Sun, Yong Dong, Yun Qu[39m
+[45m[1m[22m[49m
+[45m[1m--------------------------OMDB--------------------------[22m[49m
+[45m[1m[22m[49m
+[45m[1m[22m[49m
+[45m[1m--------------------------OMDB--------------------------[22m[49m
+[45m[1m[22m[49m
+[45mTitle:[49m [35mFearless[39m
+[45mRotten Tomatoes Rating:[49m [35m73%[39m
+[45mRelease Year:[49m [35m2006[39m
+[45mCountry:[49m [35mChina, Hong Kong[39m
+[45mIMDB Rating:[49m [35m7.7[39m
+[45m[1m[22m[49m
+[45m[1m--------------------------OMDB--------------------------[22m[49m
+[45m[1m[22m[49m
+[45mPlot:[49m [35mA biography of Chinese Martial Arts Master Huo Yuanjia, who is the founder and spiritual guru of the Jin Wu Sports Federation.[39m
+[45mLanguage:[49m [35mMandarin, English, Japanese[39m
+[45mActors:[49m [35mJet Li, Li Sun, Yong Dong, Yun Qu[39m
+[45m[1m[22m[49m
+[45m[1m--------------------------OMDB--------------------------[22m[49m
+[45m[1m[22m[49m
+[45mTitle:[49m [35mFearless[39m
+[45mRelease Year:[49m [35m2006[39m
+[45mRotten Tomatoes Rating:[49m [35m73%[39m
+[45mLanguage:[49m [35mMandarin, English, Japanese[39m
+[45mCountry:[49m [35mChina, Hong Kong[39m
+[45mPlot:[49m [35mA biography of Chinese Martial Arts Master Huo Yuanjia, who is the founder and spiritual guru of the Jin Wu Sports Federation.[39m
+[45mIMDB Rating:[49m [35m7.7[39m
+[45mActors:[49m [35mJet Li, Li Sun, Yong Dong, Yun Qu[39m
+[45m[1m[22m[49m
+[45m[1m--------------------------OMDB--------------------------[22m[49m
+[45m[1m[22m[49m
+[33m[41m[1mERROR[22m[49m[39m
+[33m[41m[1mERROR[22m[49m[39m
+[42m[1m[22m[49m
+[42m[1m--------------------------Spotify--------------------------[22m[49m
+[42m[1m[22m[49m
+[42m[4mArtist:[24m[49m [32mAce of Base[39m
+[42m[4mPreview:[24m[49m [32mhttps://p.scdn.co/mp3-preview/9c8401c8142bdd011e51f0211be2e2d4afcd5cff?cid=24cbb64654a941229d69c5e668dadeb0[39m
+[42m[4mSong:[24m[49m [32mThe Sign[39m
+[42m[1m[22m[49m
+[42m[1m--------------------------Spotify--------------------------[22m[49m
+[42m[1m[22m[49m
+[42m[4mAlbum:[24m[49m [32mThe Sign (US Album) [Remastered][39m
+[42m[1m[22m[49m
+[42m[1m--------------------------Spotify--------------------------[22m[49m
+[42m[1m[22m[49m
+[41m[33m[1mERROR[22m[39m[49m
+[42m[1m[22m[49m
+[42m[1m--------------------------Spotify--------------------------[22m[49m
+[42m[1m[22m[49m
+[41m[33m[1mERROR -- data unavailable[22m[39m[49m
+[33m[41m[1mERROR[22m[49m[39m
+[33m[41m[1mERROR[22m[49m[39m
+[33m[41m[1mERROR[22m[49m[39m
+[42m[1m[22m[49m
+[42m[1m--------------------------Spotify--------------------------[22m[49m
+[42m[1m[22m[49m
+[42m[4mArtist:[24m[49m [32mAce of Base[39m
+[42m[4mSong:[24m[49m [32mThe Sign[39m
+[42m[4mPreview:[24m[49m [32mhttps://p.scdn.co/mp3-preview/9c8401c8142bdd011e51f0211be2e2d4afcd5cff?cid=24cbb64654a941229d69c5e668dadeb0[39m
+[42m[4mAlbum:[24m[49m [32mThe Sign (US Album) [Remastered][39m
+[42m[1m[22m[49m
+[42m[1m--------------------------Spotify--------------------------[22m[49m
+[42m[1m[22m[49m
+[33m[41m[1mERROR[22m[49m[39m
+[33m[41m[1mERROR[22m[49m[39m
+[33m[41m[1mERROR[22m[49m[39m
+[33m[41m[1mERROR[22m[49m[39m
+[33m[41m[1mERROR[22m[49m[39m
+[33m[41m[1mERROR[22m[49m[39m
+[33m[41m[1mERROR[22m[49m[39m
+[33m[41m[1mERROR[22m[49m[39m
+[33m[41m[1mERROR[22m[49m[39m
+[33m[41m[1mERROR[22m[49m[39m
+[33m[41m[1mERROR[22m[49m[39m
+[33m[41m[1mERROR[22m[49m[39m
+[33m[41m[1mERROR[22m[49m[39m
+[33m[41m[1mERROR[22m[49m[39m
+[33m[41m[1mERROR[22m[49m[39m
+[33m[41m[1mERROR[22m[49m[39m
+[33m[41m[1mERROR[22m[49m[39m
+[33m[41m[1mERROR[22m[49m[39m
+[42m[1m[22m[49m
+[42m[1m--------------------------Spotify--------------------------[22m[49m
+[42m[1m[22m[49m
+[42m[4mArtist:[24m[49m [32mShakewell[39m
+[42m[4mPreview:[24m[49m [32mhttps://p.scdn.co/mp3-preview/b1631f0d08423dfec1e1f690c07bc111f77e76a1?cid=24cbb64654a941229d69c5e668dadeb0[39m
+[42m[4mSong:[24m[49m [32mPemex[39m
+[42m[4mAlbum:[24m[49m [32mPemex[39m
+[42m[1m[22m[49m
+[42m[1m--------------------------Spotify--------------------------[22m[49m
+[42m[1m[22m[49m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mName:[24m[49m [36mLADY GAGA ENIGMA[39m
+[46m[4mCity:[24m[49m [36mLas Vegas[39m
+[46m[4mCountry:[24m[49m [36mUnited States[39m
+[46m[4mCountry:[24m[49m [36mNV[39m
+[46m[4mDate:[24m[49m [36m10/17/2019[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mName:[24m[49m [36mLADY GAGA ENIGMA[39m
+[46m[4mCountry:[24m[49m [36mNV[39m
+[46m[4mCity:[24m[49m [36mLas Vegas[39m
+[46m[4mDate:[24m[49m [36m10/19/2019[39m
+[46m[4mCountry:[24m[49m [36mUnited States[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mCity:[24m[49m [36mLas Vegas[39m
+[46m[4mName:[24m[49m [36mLADY GAGA JAZZ & PIANO[39m
+[46m[4mCountry:[24m[49m [36mUnited States[39m
+[46m[4mDate:[24m[49m [36m10/20/2019[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mCountry:[24m[49m [36mNV[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mName:[24m[49m [36mLADY GAGA ENIGMA[39m
+[46m[4mCity:[24m[49m [36mLas Vegas[39m
+[46m[4mCountry:[24m[49m [36mUnited States[39m
+[46m[4mCountry:[24m[49m [36mNV[39m
+[46m[4mDate:[24m[49m [36m10/23/2019[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mName:[24m[49m [36mLADY GAGA ENIGMA[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mCountry:[24m[49m [36mUnited States[39m
+[46m[4mCountry:[24m[49m [36mNV[39m
+[46m[4mCity:[24m[49m [36mLas Vegas[39m
+[46m[4mDate:[24m[49m [36m10/25/2019[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mName:[24m[49m [36mLADY GAGA JAZZ & PIANO[39m
+[46m[4mCity:[24m[49m [36mLas Vegas[39m
+[46m[4mCountry:[24m[49m [36mNV[39m
+[46m[4mCountry:[24m[49m [36mUnited States[39m
+[46m[4mDate:[24m[49m [36m10/26/2019[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mName:[24m[49m [36mLADY GAGA ENIGMA[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mCity:[24m[49m [36mLas Vegas[39m
+[46m[4mCountry:[24m[49m [36mNV[39m
+[46m[4mCountry:[24m[49m [36mUnited States[39m
+[46m[4mDate:[24m[49m [36m10/31/2019[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mName:[24m[49m [36mLADY GAGA ENIGMA[39m
+[46m[4mCity:[24m[49m [36mLas Vegas[39m
+[46m[4mCountry:[24m[49m [36mNV[39m
+[46m[4mCountry:[24m[49m [36mUnited States[39m
+[46m[4mDate:[24m[49m [36m11/02/2019[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mName:[24m[49m [36mLADY GAGA JAZZ & PIANO[39m
+[46m[4mCity:[24m[49m [36mLas Vegas[39m
+[46m[4mCountry:[24m[49m [36mNV[39m
+[46m[4mCountry:[24m[49m [36mUnited States[39m
+[46m[4mDate:[24m[49m [36m11/03/2019[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mName:[24m[49m [36mLADY GAGA ENIGMA[39m
+[46m[4mCity:[24m[49m [36mLas Vegas[39m
+[46m[4mCountry:[24m[49m [36mNV[39m
+[46m[4mCountry:[24m[49m [36mUnited States[39m
+[46m[4mDate:[24m[49m [36m11/06/2019[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mName:[24m[49m [36mLADY GAGA ENIGMA[39m
+[46m[4mCity:[24m[49m [36mLas Vegas[39m
+[46m[4mCountry:[24m[49m [36mNV[39m
+[46m[4mCountry:[24m[49m [36mUnited States[39m
+[46m[4mDate:[24m[49m [36m11/08/2019[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mName:[24m[49m [36mLADY GAGA JAZZ & PIANO[39m
+[46m[4mCity:[24m[49m [36mLas Vegas[39m
+[46m[4mCountry:[24m[49m [36mNV[39m
+[46m[4mCountry:[24m[49m [36mUnited States[39m
+[46m[4mDate:[24m[49m [36m11/09/2019[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mName:[24m[49m [36mLADY GAGA ENIGMA[39m
+[46m[4mCity:[24m[49m [36mLas Vegas[39m
+[46m[4mCountry:[24m[49m [36mNV[39m
+[46m[4mCountry:[24m[49m [36mUnited States[39m
+[46m[4mDate:[24m[49m [36m12/28/2019[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mName:[24m[49m [36mLADY GAGA ENIGMA[39m
+[46m[4mCity:[24m[49m [36mLas Vegas[39m
+[46m[4mCountry:[24m[49m [36mNV[39m
+[46m[4mCountry:[24m[49m [36mUnited States[39m
+[46m[4mDate:[24m[49m [36m12/30/2019[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mName:[24m[49m [36mLADY GAGA JAZZ & PIANO[39m
+[46m[4mCity:[24m[49m [36mLas Vegas[39m
+[46m[4mCountry:[24m[49m [36mNV[39m
+[46m[4mCountry:[24m[49m [36mUnited States[39m
+[46m[4mDate:[24m[49m [36m12/31/2019[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mName:[24m[49m [36mLADY GAGA ENIGMA[39m
+[46m[4mCity:[24m[49m [36mLas Vegas[39m
+[46m[4mCountry:[24m[49m [36mNV[39m
+[46m[4mCountry:[24m[49m [36mUnited States[39m
+[46m[4mDate:[24m[49m [36m04/30/2020[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mName:[24m[49m [36mLADY GAGA ENIGMA[39m
+[46m[4mCity:[24m[49m [36mLas Vegas[39m
+[46m[4mCountry:[24m[49m [36mNV[39m
+[46m[4mCountry:[24m[49m [36mUnited States[39m
+[46m[4mDate:[24m[49m [36m05/02/2020[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mName:[24m[49m [36mLADY GAGA JAZZ & PIANO[39m
+[46m[4mCity:[24m[49m [36mLas Vegas[39m
+[46m[4mCountry:[24m[49m [36mNV[39m
+[46m[4mCountry:[24m[49m [36mUnited States[39m
+[46m[4mDate:[24m[49m [36m05/03/2020[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mName:[24m[49m [36mLADY GAGA JAZZ & PIANO[39m
+[46m[4mCity:[24m[49m [36mLas Vegas[39m
+[46m[4mCountry:[24m[49m [36mNV[39m
+[46m[4mCountry:[24m[49m [36mUnited States[39m
+[46m[4mDate:[24m[49m [36m05/07/2020[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mName:[24m[49m [36mLADY GAGA ENIGMA[39m
+[46m[4mCity:[24m[49m [36mLas Vegas[39m
+[46m[4mCountry:[24m[49m [36mNV[39m
+[46m[4mCountry:[24m[49m [36mUnited States[39m
+[46m[4mDate:[24m[49m [36m05/09/2020[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mName:[24m[49m [36mLADY GAGA JAZZ & PIANO[39m
+[46m[4mCity:[24m[49m [36mLas Vegas[39m
+[46m[4mCountry:[24m[49m [36mNV[39m
+[46m[4mCountry:[24m[49m [36mUnited States[39m
+[46m[4mDate:[24m[49m [36m05/10/2020[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mName:[24m[49m [36mLADY GAGA ENIGMA[39m
+[46m[4mCity:[24m[49m [36mLas Vegas[39m
+[46m[4mCountry:[24m[49m [36mNV[39m
+[46m[4mCountry:[24m[49m [36mUnited States[39m
+[46m[4mDate:[24m[49m [36m05/13/2020[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mName:[24m[49m [36mLADY GAGA ENIGMA[39m
+[46m[4mCity:[24m[49m [36mLas Vegas[39m
+[46m[4mCountry:[24m[49m [36mNV[39m
+[46m[4mCountry:[24m[49m [36mUnited States[39m
+[46m[4mDate:[24m[49m [36m05/15/2020[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[46m[4mName:[24m[49m [36mLADY GAGA JAZZ & PIANO[39m
+[46m[4mCity:[24m[49m [36mLas Vegas[39m
+[46m[4mCountry:[24m[49m [36mNV[39m
+[46m[4mCountry:[24m[49m [36mUnited States[39m
+[46m[4mDate:[24m[49m [36m05/16/2020[39m
+[46m[1m[22m[49m
+[46m[1m--------------------------BandsInTown--------------------------[22m[49m
+[46m[1m[22m[49m
+[45m[1m[22m[49m
+[45m[1m--------------------------OMDB--------------------------[22m[49m
+[45m[1m[22m[49m
+[45mTitle:[49m [35mFearless[39m
+[45mRelease Year:[49m [35m2006[39m
+[45mRotten Tomatoes Rating:[49m [35m73%[39m
+[45mIMDB Rating:[49m [35m7.7[39m
+[45mLanguage:[49m [35mMandarin, English, Japanese[39m
+[45mPlot:[49m [35mA biography of Chinese Martial Arts Master Huo Yuanjia, who is the founder and spiritual guru of the Jin Wu Sports Federation.[39m
+[45mCountry:[49m [35mChina, Hong Kong[39m
+[45m[1m[22m[49m
+[45m[1m--------------------------OMDB--------------------------[22m[49m
+[45m[1m[22m[49m
+[45mActors:[49m [35mJet Li, Li Sun, Yong Dong, Yun Qu[39m
+[33m[41m[1mERROR[22m[49m[39m
+[33m[41m[1mERROR[22m[49m[39m

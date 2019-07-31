@@ -3,21 +3,41 @@ require("dotenv").config();
 var fs = require("fs")
 var request = require("request")
 var figlet = require("figlet")
-
-
 var keys = require("./keys.js");
 var Spotify = require("node-spotify-api")
 var spotify = new Spotify(keys.spotify);
 var chalk = require("chalk");
+var align = require("align-text")
 
 var command = process.argv[2];
 var parameter = process.argv[3];
 
-
-
-function parameters () {
+function title () {
+figlet.text("Liri-Bot", {
+    font: "Electronic",
+    horizontalLayout: "default",
+    verticalLayout: "default"
+    }, function(err, data) {
+        if (err) {
+            align(console.log(chalk.bgRed.yellow.bold("ERROR--loading main title.")), 4)
+            return;
+        }
+        console.log(chalk.blue(data))
+        console.log(chalk.bgMagenta.bold("-------------------------------------------Richard Zhou-------------------------------------------"))
+        console.log(chalk.cyan.underline("---------------A simple app that gathers information on songs, concerts, or artists!--------------"))
+        console.log(chalk.green("------------------------------------------[Command-list]------------------------------------------"))
+        console.log(chalk.green("-----[") + chalk.bgGreen("concert-this") + chalk.green("]: Concert name, Location's City/State & Country, Date.-------------------------"))
+        console.log(chalk.green("-----[") + chalk.bgGreen("spotify-this-song") + chalk.green("]: Artist, Album, and preview link.----------------------------------------"))
+        console.log(chalk.green("-----[") + chalk.bgGreen("movie-this") + chalk.green("]: Release Year, IMDB & Rotten Tomatoes ratings, Plot, and Actors info.-----------"))
+        console.log(chalk.green("-----[") + chalk.bgGreen("do-what-it-says") + chalk.green("]: Reads any command(s) written in 'random.txt', located in the local folder."))
+    }
+    );
+}
 
     switch (command) {
+        case 'title':
+            title();
+            break;
         case 'concert-this':
             bandsInTown(parameter);
             break;
@@ -32,10 +52,10 @@ function parameters () {
             break;
 
             default:
-                display('ERROR');
+                eventLog(chalk.yellow.bgRed.bold('ERROR'));
                 break;
     }
-}
+
 
 function bandsInTown(parameter) {
     if('concert-this') {
@@ -44,7 +64,11 @@ function bandsInTown(parameter) {
             artist+=process.argv[i];
         }
 
-        figlet("BandsInTown", function(err, data){
+        figlet("BandsInTown", {
+            font: "Reverse",
+            horizontalLayout: "default",
+            verticalLayout: "default"
+        }, function(err, data){
             if (err) {
                 console.log(chalk.yellow.bold.bgRed('ERROR'));
                 return;
@@ -93,7 +117,11 @@ function spotifySearch(parameter) {
         song = parameter;
     }
 
-    figlet("SPOTIFY", function(err,data) {
+    figlet.text("Spotify", {
+        font: "Roman",
+        horizontalLayout: "default",
+        verticalLayout: "default"
+    }, function(err,data) {
         if (err) {
             console.log(chalk.bgRed.yellow.bold("ERROR"))
             return;
@@ -106,7 +134,7 @@ function spotifySearch(parameter) {
         query: song
     }, function(err,data) {
         if (err) {
-            eventLog(chalk.bgRed.yellow.bold("ERROR"))
+            eventLog(chalk.bgRed.yellow.bold("ERROR -- data unavailable"))
             return;
         } else {
             eventLog(chalk.bgGreen.bold("\n--------------------------Spotify--------------------------\n"))
@@ -127,9 +155,13 @@ function omdbInfo(parameter) {
         movie = parameter;
     }
 
-    figlet("OMDB", function(err, data) {
+    figlet("OMDB", {
+        font: "3D-ASCII",
+        horizontalLayout: "default",
+        verticalLayout: "default"
+    }, function(err, data) {
         if (err) {
-            console.log(chalk.bgRed.yellow.bold("ERROR"))
+            console.log(chalk.bgRed.yellow.bold("ERROR -- loading title"))
             return;
         } 
         console.log(chalk.magenta(data));
@@ -156,9 +188,9 @@ function omdbInfo(parameter) {
 }
 
 function randomTxt() {
-    fs.readFile("random.txt", function(err,data) {
+    fs.readFile("random.txt", "utf8", function(err, data) {
         if (err) {
-            console.log(chalk.bgRed.yellow.bold("ERROR"))
+            eventLog(chalk.bgRed.yellow.bold("ERROR"))
             return;
         }
 
@@ -176,5 +208,3 @@ function eventLog(query) {
         if (err) return eventLog(chalk.bgRed("Error logging event.."));
     })
 }
-
-parameters();
