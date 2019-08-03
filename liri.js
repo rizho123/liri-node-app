@@ -34,10 +34,11 @@ figlet.text("Liri-Bot", {
     );
 }
 
+if (process.argv[3] == null) {
+    title()
+    return;
+} else {
     switch (command) {
-        case 'title':
-            title();
-            break;
         case 'concert-this':
             bandsInTown(parameter);
             break;
@@ -55,6 +56,7 @@ figlet.text("Liri-Bot", {
                 eventLog(chalk.yellow.bgRed.bold('ERROR'));
                 break;
     }
+}
 
 
 function bandsInTown(parameter) {
